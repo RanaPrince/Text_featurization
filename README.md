@@ -1,6 +1,6 @@
 # Working with NLP methods creating Featurization Algo from Scratch
 
-##Featurization & why it's required
+## Featurization & why it's required
 
 Featurization is the process to convert varied forms of data to numerical data which can be used for basic ML algorithms. Data can be text data, images, videos, graphs, various database tables, time-series, categorical features, etc.
 By applying featurization techniques, one can convert the data to numerical features to feed that data to the ML model.
