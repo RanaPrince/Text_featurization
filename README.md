@@ -1,4 +1,4 @@
-# Featurization methods for the text data
+# Working with NLP methods creating Featurization Algo from Scratch
 
 ##Featurization & why it's required
 
